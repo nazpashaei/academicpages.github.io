@@ -1,7 +1,7 @@
 ---
 title: "Biomarker Identification for Alzheimer’s Disease Using a Multi-Filter Gene Selection Approach"
 collection: publications
-category: journal
+category: manuscripts
 permalink: /publication/2025-alzheimer-ijms
 excerpt: 'Gene selection strategy to identify Alzheimer’s biomarkers from expression data.'
 date: 2025-03-01
