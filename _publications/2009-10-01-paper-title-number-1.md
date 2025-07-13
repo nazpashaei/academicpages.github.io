@@ -1,7 +1,7 @@
 ---
 title: "DiCE: differential centrality-ensemble analysis based on gene expression profiles and protein–protein interaction network"
 collection: publications
-category: journal
+category: manuscripts
 permalink: /publication/2025-dice-nar
 excerpt: 'We proposed DiCE, a differential centrality-ensemble framework to discover key genes in cancer using PPI networks and expression data.'
 date: 2025-07-01
