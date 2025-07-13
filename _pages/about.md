@@ -5,6 +5,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+## About Me
 I am a Postdoctoral Researcher in the Department of Medical & Molecular Genetics at the Indiana University School of Medicine. My research focuses on computational biology and bioinformatics, with a strong emphasis on cancer biomarker discovery, gene selection, and the development of novel optimization-based machine learning methods. My work contributes to understanding tumorigenesis and metastasis by leveraging gene expression profiles, protein–protein interaction networks, and high-dimensional biomedical datasets.
 
 I received my Ph.D. in Computer Science and Engineering from Yildiz Technical University in 2017, with a thesis focused on the meta-analysis of microRNAs and gene selection using machine learning techniques. I also hold an M.S. in Software Engineering from Qazvin Islamic Azad University, where I studied algorithmic applications in graph theory, and a B.S. in Computer Engineering.
