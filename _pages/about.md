@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -30,19 +30,15 @@ In addition to research, I have taught undergraduate and graduate courses in mac
 ## News
 
 📢 Our study “DiCE: Differential Centrality-Ensemble Analysis Based on Gene Expression Profiles and Protein–Protein Interaction Network” has been accepted for publication in *Nucleic Acids Research* (2025).  
-➤ *[Read the paper]*
 
 📢 Our work “Binary Hiking Optimization for Gene Selection: Insights from HNSCC RNA-Seq Data” is now published in *Expert Systems with Applications* (2025).  
-➤ *[Read the paper]*
 
 📢 I have been appointed to the Editorial Board of *PLOS ONE* (2025).
 
 🧠 Our Alzheimer’s study “Biomarker Identification for Alzheimer’s Disease Using a Multi-Filter Gene Selection Approach” was published in *International Journal of Molecular Sciences*, Vol. 26, No. 5 (2025).  
-➤ [Read the paper](https://doi.org/10.3390/ijms26051816)
 
 🧠 Presented “CENTENMK: An Efficient Approach for Biomarker Discovery in Neuroendocrine Prostate Cancer” at Cancer Research Day 2023, IUPUI.
 
 💻 Presented “Identification of Key Genes in Prostate Cancer Tumorigenesis and Metastasis Using DiCE” at the 2024 Center for Computational Biology and Bioinformatics Retreat, Indianapolis.
 
 🧬 Our marker gene study “CDHu40: A Novel Marker Gene Set of Neuroendocrine Prostate Cancer” was published in *Briefings in Bioinformatics* (2024).  
-➤ *[Read the paper]*
