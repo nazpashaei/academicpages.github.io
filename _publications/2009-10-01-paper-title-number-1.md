@@ -1,3 +1,4 @@
+---
 title: "DiCE: differential centrality-ensemble analysis based on gene expression profiles and protein–protein interaction network"
 collection: publications
 category: journal
