@@ -33,17 +33,37 @@ Publications
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
 
-Talks
-======
-<ul>{% for post in site.talks reversed %}
-  {% include archive-single-talk-cv.html %}
-{% endfor %}</ul>
+Invited Talks
+=============
+<ul>
+  <li>12th Edition of International Conference on Neurology and Brain Disorders, Orlando, FL, USA, Oct 20–22, 2025 (Invited)</li>
+  <li>5th Global Summit on Artificial Intelligence (5th GSAI 2025), Virtual Conference, Oct 09–10, 2025 (Invited)</li>
+  <li>International Meet on Neuroscience and Brain Disorders (NEUROMEET2025), Chicago, USA, Dec 04–05, 2025 (Invited)</li>
+  <li>15th Annual World Congress of Neurotalk (NT), Stockholm, Sweden, June 18–20, 2025 (Invited)</li>
+  <!-- Add more invited talks here -->
+</ul>
 
 Teaching
 ======
-<ul>{% for post in site.teaching reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
+* SEN 437 – Machine Learning, Istanbul Aydın University  
+* SEN 426 – Bioinformatics Algorithms, Istanbul Aydın University  
+* MAT 317 – Probability and Statistics, Istanbul Aydın University  
+* EEE 244 – Computer Programming I (C Language), Istanbul Aydın University  
+* SEN 431 – Data Mining, Istanbul Aydın University  
+* SEN 263/232 – Database Management System (MS SQL/PLSQL), Istanbul Aydın University  
+* SEN 225 – Data Structures and Algorithms, Istanbul Aydın University  
+* SEN 424 – Genetic Algorithm, Istanbul Aydın University  
+* SEN 312 – Operation Research, Istanbul Aydın University  
+* SEN 521 – Optimization Methods, Istanbul Aydın University  
+
+
+Graduate Student Supervision
+======
+* Sayed Pedram Haeri Boroujeni, Master’s Thesis Supervisor, Istanbul Aydın University, Türkiye, 2021  
+  _Thesis Title:_ “Data Clustering Using Swarm Intelligence”  
+* Niloufar Mehrabi, Master’s Thesis Supervisor, Istanbul Aydın University, Türkiye, 2021  
+  _Thesis Title:_ “Feature Selection on Biological Data Using Swarm Intelligence Algorithm”
+  
 
 Service and leadership
 ======
