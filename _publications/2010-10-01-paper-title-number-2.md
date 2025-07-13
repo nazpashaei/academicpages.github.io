@@ -1,7 +1,7 @@
 ---
 title: "Binary Hiking Optimization for Gene Selection: Insights from HNSCC RNA-Seq Data"
 collection: publications
-category: journal
+category: manuscripts
 permalink: /publication/2025-bhoa-eswa
 excerpt: 'A new binary optimization approach for selecting informative genes from RNA-Seq data.'
 date: 2025-05-15
